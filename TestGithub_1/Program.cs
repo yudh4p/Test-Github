@@ -11,6 +11,7 @@ namespace TestGithub_1
         static void Main(string[] args)
         {
             string a = "Test123456";
+            string b = "Yudha";
         }
     }
 }
